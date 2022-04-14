@@ -1,3 +1,3 @@
 ## README.MD
 
-# This chat app was inspired by Microsoft Teams.
+This chat app was inspired by Microsoft Teams.
